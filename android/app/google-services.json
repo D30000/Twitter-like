@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692882448192",
+    "project_id": "twitter-like-84745",
+    "storage_bucket": "twitter-like-84745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692882448192:android:ecd3678b4b84e8745a64a5",
+        "android_client_info": {
+          "package_name": "app.mitch.twitterlike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeurOyhKn2LLsVZUL3C9xLg_gHle7q21Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
