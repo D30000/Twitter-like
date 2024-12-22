@@ -80,18 +80,7 @@ class _LoginPageState extends State<LoginPage> {
                   hintText: "Enter password",
                   obscureText: true,
                 ),
-                const SizedBox(height: 10),
-                Align(
-                  alignment: Alignment.centerRight,
-                  child: Text(
-                    "Forgot password?",
-                    style: TextStyle(
-                      color: Theme.of(context).colorScheme.primary,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ),
-                const SizedBox(height: 25),
+                const SizedBox(height: 50),
                 MyButton(
                   text: "Login",
                   onTap: login,
